@@ -1,2 +1,2 @@
 # delta-demo
-this is wow.
+this is a demo for git & github class
